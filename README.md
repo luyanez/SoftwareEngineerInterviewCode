@@ -6,19 +6,23 @@ Arrays and Strings
 * Two pointers
 * Sliding window
 * Prefix sum
+
 Hashing
 * Hashing
 * Checking for existence
 * Counting
+
 Linked Lists
 * Linked List
 * Fast and slow pointers
 * Reversing a linked list
+
 Stacks and queues
 * Stacks
 * String problems
 * Queues
 * Monotonic
+
 Trees and graphs
 * Binary trees
 * Binary trees - DFS
@@ -28,25 +32,31 @@ Trees and graphs
 * Graphs - DFS
 * Graphs - BFS
 * Implicit graphs
+
 Heaps
 * Heaps
 * Top k
+
 Greedy
 * Greedy algorithms
+
 Binary search
 * Binary search
 * On arrays
 * On solution spaces
+
 Backtracking
 * Backtracking
 * Generation
 * More constrained backtracking
+
 Dynamic programming
 * Dynamic programming
 * Framework for DP
 * 1D problems
 * Multi-dimensional problems
 * Matrix DP
+
 Extras
 * Difference array
 * Tries
