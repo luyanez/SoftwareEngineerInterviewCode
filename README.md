@@ -1,4 +1,4 @@
-# SoftwareEngineerInterviewCode
+# Software Engineer Interview Code
 This repo will contain all the coding that I will use to prepare for a Software Engineer interview.
 
 Some of the topics include:
